@@ -10,7 +10,7 @@ To use the code it is necessary: MATLAB 2021_a
 Files:
 
     calculatesMse.m                 - Calculates the mean squared error (MSE) of a simulation.
-    designController6DoF.m          - Designs a flight controller for a 6DoF UAV based on the flight system requirements.
+    designController6DoF.m          - Designs a flight controller for a 6DoF UAV analiticly using on the flight system requirements.
     designControllerOptimization.m  - Designs a flight controller for a 6DoF UAV based on the PSO optimization algorithm. 
     drone_6dof.slx                  - UAV Simulink model
     getDroneDynamics6DoF.m          - get UAV dynamics parameters.
