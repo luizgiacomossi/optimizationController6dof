@@ -24,3 +24,13 @@ Files:
     showResults.m:                  - Loads pre and post optimziation (Pre loads results) controllers and compares results. USE THIS FOR QUICK COMPARISON!
     simulateDrone6DoF.m:            - auxiliary function to execute iteration.
     simulateDrone6DoFExperiment.m:  - simulates a especific experiment
+
+HOW TO USE:
+
+To run the code, open the script "mainPSO.m"! this script will start the optimization of a specific experiment, to select the experiment change the variable "exp" to 'd' for experiment 1, 'f' for experiment 3 or 'g' for experiment 3.
+
+To just load the results already obtained from each experiment, run the script "showResults.m" and again select the desired experiment in the variable "exp".
+
+To plot a the results of a experiment execute the "plotSimulationResults6DoF.m" 
+
+to plot a comparision between 2 simulations controllers with different limits, use the "plotComparisonResults6DoF.m:" and pass both simulations on  plotComparisonResults6DoF(simulationPre, simulationPos) 
