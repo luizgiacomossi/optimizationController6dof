@@ -15,7 +15,7 @@ Files:
     drone_6dof.slx                  - UAV Simulink model
     getDroneDynamics6DoF.m          - get UAV dynamics parameters.
     getRequirements6DoF.m :         - loads the requirements to design the flight controller.
-    loadOptimizationResult.m :      - loads results of optimizations for the experiments.
+    loadOptimizationResult.m :      - loads results of optimizations for the experiments, pre loads the limits and returns a controller.
     mainNelderMead_NOTUSED.m:       - old code for the optimization, using Nelder Mead algorithm. Not used! it was not effective.
     mainPSO.m: MAIN CODE!           - executes this script to initiate optimization.
     plotComparisonResults6DoF.m:    - Plots comparison between pre and post optimization controllers.
