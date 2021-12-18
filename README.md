@@ -33,7 +33,7 @@ To just load the results already obtained from each experiment, run the script "
 
 To plot a the results of a experiment execute the "plotSimulationResults6DoF.m" 
 
-to plot a comparision between 2 simulations controllers with different limits, use the "plotComparisonResults6DoF.m:" and pass both simulations on  plotComparisonResults6DoF(simulationPre, simulationPos) 
+to plot a comparision between 2 simulations, using controllers with different limits, use the "plotComparisonResults6DoF.m:" and pass both simulations on  plotComparisonResults6DoF(simulationPre, simulationPos) 
 
 To load the optimized limits for the flight controller use : controller = loadOptimizationResult(controller, exp)
 and pass a controller not yet optimized as a parameter and the experiment.
