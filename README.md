@@ -2,7 +2,7 @@
 This project refers to the final assignment of the subject "Planning and Control for Mobile Robotics" CM-202 
 ITA | Aeronautics Institute of Technology 
 
-Author: Luiz Giacomossi Jr.\\
+Author: Luiz Giacomossi Jr. || 
 Credits: the base code used was created based on the discipline lab work of Prof. Marcos Maximo.
 
 To use the code it is necessary: MATLAB 2021_a
