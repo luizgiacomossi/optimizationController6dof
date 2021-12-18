@@ -1,4 +1,4 @@
-# 6DoF UAV Flight Control Saturation Threshold Optimization
+# 6DoF UAV Flight Control Force and Torque Saturation Limits Optimization
 This project refers to the final assignment of the subject "Planning and Control for Mobile Robotics" CM-202 
 ITA | Aeronautics Institute of Technology 
 
