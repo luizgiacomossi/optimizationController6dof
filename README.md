@@ -5,7 +5,7 @@ This project refers to the work published in the paper entitled "Optimization of
 ## ITA | Aeronautics Institute of Technology 
 
 Authors: Luiz Giacomossi Jr., Angelo Caregnato-Neto and Marcos R. O. A. Maximo || 
-Credits: the base code used was created based on the discipline lab work of Prof. Marcos Maximo.
+Credits: The base code used was created based on the final assignment of the course CM-202 - "Planning and Control for Mobile Robotics" by Prof. Marcos Maximo
 
 ## How to Use it  
 To use the code it is necessary to install: MATLAB 2021_a, Simulink, Aerospace Toolbox and Optimization Toolbox
