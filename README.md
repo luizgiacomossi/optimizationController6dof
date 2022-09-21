@@ -7,6 +7,7 @@ This project refers to the work published in the paper entitled "Optimization of
 Authors: Luiz Giacomossi Jr., Angelo Caregnato-Neto and Marcos R. O. A. Maximo || 
 Credits: the base code used was created based on the discipline lab work of Prof. Marcos Maximo.
 
+## How to Use it  
 To use the code it is necessary to install: MATLAB 2021_a, Simulink, Aerospace Toolbox and Optimization Toolbox
     - https://www.mathworks.com/products/matlab.html
 
