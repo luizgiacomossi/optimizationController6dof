@@ -1,11 +1,14 @@
-# 6DoF UAV Flight Control Force and Torque Saturation Limits Optimization
-This project refers to the final assignment of the subject "Planning and Control for Mobile Robotics" CM-202 
-ITA | Aeronautics Institute of Technology 
+# Optimization of Force and Torque Bounds for the Flight Control System of a Quadcopter using PSO
 
-Author: Luiz Giacomossi Jr. || 
+This project refers to the work published in the paper entitled "Optimization of Force and Torque Bounds for the Flight Control System of a Quadcopter using PSO" - 19th IEEE Latin American Robotics Symposium - LARS 2022.
+
+## ITA | Aeronautics Institute of Technology 
+
+Authors: Luiz Giacomossi Jr., Angelo Caregnato-Neto and Marcos R. O. A. Maximo || 
 Credits: the base code used was created based on the discipline lab work of Prof. Marcos Maximo.
 
-To use the code it is necessary: MATLAB 2021_a
+To use the code it is necessary to install: MATLAB 2021_a, Simulink, Aerospace Toolbox and Optimization Toolbox
+    - https://www.mathworks.com/products/matlab.html
 
 Files:
 
